@@ -11,7 +11,7 @@
     videoElement.play();
 
     const peer = new Peer({
-      key: "34641ac1-97a3-4d80-b668-71bbfc8da928",
+      key: "8be054a1-1cdf-424c-b1a3-0f126be818df",
       debug: 3,
     });
 
